@@ -30,7 +30,7 @@ if __name__ == '__main__':
     start_time = time.time()
 
     # quantize image
-    quantized_img = img.quantized(in_pal, commands.thread_count).mirrored(commands.mirrored, False)
+    quantized_img = img.quantized(in_pal, commands.thread_count).mirrored(False, commands.mirrored)
     end_time = time.time()
 
     # print time
