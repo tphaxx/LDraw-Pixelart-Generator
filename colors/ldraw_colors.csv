@@ -1,0 +1,106 @@
+id,name,rgb,is_trans
+0,Black,05131D,f
+1,Blue,0055BF,f
+2,Green,237841,f
+3,Dark Turquoise,008F9B,f
+4,Red,C91A09,f
+5,Dark Pink,C870A0,f
+6,Brown,583927,f
+7,Light Gray,9BA19D,f
+8,Dark Gray,6D6E5C,f
+9,Light Blue,B4D2E3,f
+10,Bright Green,4B9F4A,f
+11,Light Turquoise,55A5AF,f
+12,Salmon,F2705E,f
+13,Pink,FC97AC,f
+14,Yellow,F2CD37,f
+15,White,FFFFFF,f
+17,Light Green,C2DAB8,f
+18,Light Yellow,FBE696,f
+19,Tan,E4CD9E,f
+20,Light Violet,C9CAE2,f
+22,Purple,81007B,f
+23,Dark Blue-Violet,2032B0,f
+25,Orange,FE8A18,f
+26,Magenta,923978,f
+27,Lime,BBE90B,f
+28,Dark Tan,958A73,f
+29,Bright Pink,E4ADC8,f
+30,Medium Lavender,AC78BA,f
+31,Lavender,E1D5ED,f
+68,Very Light Orange,F3CF9B,f
+69,Light Purple,CD6298,f
+70,Reddish Brown,582A12,f
+71,Light Bluish Gray,A0A5A9,f
+72,Dark Bluish Gray,6C6E68,f
+73,Medium Blue,5A93DB,f
+74,Medium Green,73DCA1,f
+75,Speckle Black-Copper,05131D,f
+76,Speckle DBGray-Silver,6C6E68,f
+77,Light Pink,FECCCF,f
+78,Light Flesh,F6D7B3,f
+79,Milky White,FFFFFF,f
+80,Metallic Silver,A5A9B4,f
+81,Metallic Green,899B5F,f
+82,Metallic Gold,DBAC34,f
+84,Medium Dark Flesh,CC702A,f
+85,Dark Purple,3F3691,f
+86,Dark Flesh,7C503A,f
+89,Royal Blue,4C61DB,f
+92,Flesh,D09168,f
+100,Light Salmon,FEBABD,f
+110,Violet,4354A3,f
+112,Blue-Violet,6874CA,f
+115,Medium Lime,C7D23C,f
+118,Aqua,B3D7D1,f
+120,Light Lime,D9E4A7,f
+125,Light Orange,F9BA61,f
+132,Speckle Black-Silver,05131D,f
+133,Speckle Black-Gold,05131D,f
+134,Copper,AE7A59,f
+135,Pearl Light Gray,9CA3A8,f
+137,Metal Blue,7988A1,f
+142,Pearl Light Gold,DCBC81,f
+148,Pearl Dark Gray,575857,f
+150,Pearl Very Light Gray,ABADAC,f
+151,Very Light Bluish Gray,E6E3E0,f
+158,Yellowish Green,DFEEA5,f
+178,Flat Dark Gold,B48455,f
+179,Flat Silver,898788,f
+183,Pearl White,F2F3F2,f
+191,Bright Light Orange,F8BB3D,f
+212,Bright Light Blue,9FC3E9,f
+216,Rust,B31004,f
+226,Bright Light Yellow,FFF03A,f
+232,Sky Blue,7DBFDD,f
+272,Dark Blue,0A3463,f
+288,Dark Green,184632,f
+297,Pearl Gold,AA7F2E,f
+308,Dark Brown,352100,f
+313,Maersk Blue,3592C3,f
+320,Dark Red,720E0F,f
+321,Dark Azure,078BC9,f
+322,Medium Azure,36AEBF,f
+323,Light Aqua,ADC3C0,f
+326,Olive Green,9B9A5A,f
+334,Chrome Gold,BBA53D,f
+335,Sand Red,D67572,f
+351,Medium Dark Pink,F785B1,f
+366,Earth Orange,FA9C1C,f
+373,Sand Purple,845E84,f
+378,Sand Green,A0BCAC,f
+379,Sand Blue,6074A1,f
+383,Chrome Silver,E0E0E0,f
+450,Fabuland Brown,B67B50,f
+462,Medium Orange,FFA70B,f
+484,Dark Orange,A95500,f
+503,Very Light Gray,E6E3DA,f
+1001,Medium Violet,9391E4,f
+1007,Reddish Lilac,8E5597,f
+1008,Vintage Blue,039CBD,f
+1009,Vintage Green,1E601E,f
+1010,Vintage Red,CA1F08,f
+1011,Vintage Yellow,F3C305,f
+1012,Fabuland Orange,EF9121,f
+1050,Coral,FF698F,f
+1051,Pastel Blue,5AC4DA,f
