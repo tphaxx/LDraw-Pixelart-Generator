@@ -62,7 +62,7 @@ All pixel arts was rendered with Intel® Core&trade; i7-7500U and the color pale
 Name: Kylo Ren, size: 160x90p, elapsed time: 3s
 
 ![OctoPrint Logo 249x200](./images/octoprint_249x200.png)
-Name: OctoPrint Logo, size: 249x200p, elapsed time: 15s
+Name: OctoPrint Logo, size: 249x200p, elapsed time: 23s
 
 ![Astronaut 521x568](./images/astronaut_521x568.png)
-Name: Astronaut, size: 521x568p, elapsed time: 1min 22s
+Name: Astronaut, size: 521x568p, elapsed time: 3min 30s
